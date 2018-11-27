@@ -1,6 +1,5 @@
 let huli ={
     _Name: "Exp 626",
-    // { _Name: 'Exp 626 Taco', Name: [Setter] } "ask ben about"
 set Name(Title) {
     if (typeof Title != "number") {
         console.log("Huli Huli Chicken")
